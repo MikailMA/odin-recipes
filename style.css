@@ -1,0 +1,28 @@
+*{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+body{
+    background-color: lightgray;
+}
+
+h1, ul{
+    text-align: center;
+}
+
+ul li{
+    display: inline;
+}
+
+a{
+    text-decoration: none;
+    color: black;
+}
+
+a:hover{
+    color: rgb(56, 54, 54);
+}
+
+p.welcome-text{
+    padding: 0% 10% 0% 10%;
+}
